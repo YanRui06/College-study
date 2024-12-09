@@ -1,4 +1,5 @@
 #include <stdio.h>  
+
 // 计算斐波那契数列的第a项  
 int fibonacci(int a) {  
     if (a <= 0) return 0; // 假设斐波那契数列从第1项开始，F(0)不是有效的输入  
