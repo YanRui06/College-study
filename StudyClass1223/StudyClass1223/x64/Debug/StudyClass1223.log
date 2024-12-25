@@ -1,3 +1,0 @@
-﻿  StudyClass1223.cpp
-E:\Creat\VScode\C++\StudyClass1223\StudyClass1223\StudyClass1223.cpp(5,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  StudyClass1223.vcxproj -> E:\Creat\VScode\C++\StudyClass1223\x64\Debug\StudyClass1223.exe
